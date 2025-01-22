@@ -1,0 +1,55 @@
+.body-bg {
+    background-image: url("Screenshot 2025-01-19 212628.png");
+    background-size: cover;
+}
+
+.about-bg { 
+    background-image: url("303.jpg");
+    background-size: cover;
+
+}
+
+.intro { 
+    color: #4deaff;
+
+}
+
+#welcome { 
+    color: #ffffff;
+
+}
+#about-me {
+    color: #ffffff;
+}
+
+.full-height {
+    height: 57vh;
+}
+
+.job-titles{ text-align: center;
+    color: #4deaff;
+
+}
+
+.footer{text-align: center;
+    color: #4deaff;
+
+}
+
+.footer2 {
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.hide {
+    display:none;
+
+}
+
+#centerskills{text-align: center;
+
+}
+#skills{
+    color: #ffffff;
+}
