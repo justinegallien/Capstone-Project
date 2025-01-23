@@ -23,7 +23,7 @@
 }
 
 .full-height {
-    height: 57vh;
+    height: 50vh;
 }
 
 .job-titles{ text-align: center;
@@ -52,4 +52,17 @@
 }
 #skills{
     color: #ffffff;
+}
+
+#projectcolor{
+    background-color: #023b3b;
+}
+
+.m-5{color: #ffffff;
+
+} 
+
+.height {
+    height: 10vh;
+    text-align: center;
 }

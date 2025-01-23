@@ -4,9 +4,12 @@ let skills = [
   { type: "Web Design", examples: "CSS, HTML, JavaScript" },
   {
     type: "Adobe Creative Suite",
-    examples: "Photoshop, Illustrator, InDesign",
+    examples: "Photoshop, Illustrator, InDesign, Premiere",
   },
-  { type: "Creative Design", examples: "Logo & Branding" },
+  {
+    type: "Creative Design",
+    examples: "Logo, Branding, Photography, Videography",
+  },
 ];
 
 let keySkills = document.getElementById("key-skills");
@@ -32,3 +35,8 @@ function showSkills() {
 
 let displaySkills = document.getElementById("show-Skills");
 displaySkills.addEventListener("click", () => showSkills());
+
+let button = document.getElementById("showWork");
+button.addEventListener("click", () => {
+  window.location.href("https://github.com/justinegallien");
+});
