@@ -36,7 +36,3 @@ function showSkills() {
 let displaySkills = document.getElementById("show-Skills");
 displaySkills.addEventListener("click", () => showSkills());
 
-let button = document.getElementById("showWork");
-button.addEventListener("click", () => {
-  window.location.href("https://github.com/justinegallien");
-});
