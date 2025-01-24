@@ -34,5 +34,5 @@ function showSkills() {
 }
 
 let displaySkills = document.getElementById("show-Skills");
-displaySkills.addEventListener("click", () => showSkills());
+displaySkills.addEventListener("click", showSkills);
 
