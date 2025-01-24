@@ -11,15 +11,16 @@
 
 .intro { 
     color: #4deaff;
-
+font-family: 'Lucida Sans', 'Lucida Grande', 'Geneva', 'Verdana';
 }
 
 #welcome { 
     color: #ffffff;
-
+font-family: 'Book Antiqua', 'Palatino', 'Lucida Sans', 'Lucida Grande', 'Geneva', 'Verdana';
 }
 #about-me {
     color: #ffffff;
+    font-family: 'Book Antiqua', 'Palatino', 'Geneva', 'Verdana', 'Lucida Sans', 'Lucida Grande';
 }
 
 .full-height {
@@ -67,7 +68,6 @@
     text-align: center;
 }
 
-#definition{font-size: 18px;
+#definition {font-size: 18px;
     color: #ffffff;
-
-}
+font-family: 'Geneva', 'Verdana', 'Lucida Sans', 'Lucida Grande';}
